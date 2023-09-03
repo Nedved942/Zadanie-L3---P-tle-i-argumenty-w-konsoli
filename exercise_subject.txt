@@ -1,6 +1,6 @@
 *** Pętle i argumenty w konsoli ***
 
-Napisz program do obsługi ładowarki paczek. Po uruchomieniu, aplikacja pyta ile paczek chcesz wysłać, a następnie wymaga podania wagi dla każdej z nich.
+Napisz program do obsługi ładowarki paczek. Po uruchomieniu, aplikacja pyta ile elementów chcesz wysłać, a następnie wymaga podania wagi każdego z nich.
 
 Na koniec działania program powinien wyświetlić w podsumowaniu:
 1. Liczbę paczek wysłanych
@@ -45,4 +45,4 @@ Podsumowanie:
 Wysłano 1 paczkę (7)
 Wysłano 7 kg
 Suma pustych kilogramów: 13kg
-Najwięcej pustych kilogramów ma paczka 13
+Najwięcej pustych kilogramów ma paczka 1 (13kg)
